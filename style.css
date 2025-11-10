@@ -483,6 +483,6 @@ section:nth-of-type(even) {
 
 @media (max-width: 768px) {
   #services-page .services-grid {
-    grid-template-columns: 1fr !important;
+    grid-template-columns: 1fr ;
   }
 }
